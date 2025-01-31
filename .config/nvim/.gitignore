@@ -1,0 +1,4 @@
+typrstats
+
+# do not lock lazy plugins
+lazy-lock.json
