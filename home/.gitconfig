@@ -1,0 +1,7 @@
+[user]
+	name = Yura Luchka
+	email = lluchkaa@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	ignorecase = false
